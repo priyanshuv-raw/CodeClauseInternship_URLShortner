@@ -11,7 +11,6 @@ html {
 body {
     height: 100%;
     background-color: #313434;
-    border: 5px dashed red;
     background-image: radial-gradient(#282828 2px,
             transparent 2px);
     background-size: 16px 16px;
